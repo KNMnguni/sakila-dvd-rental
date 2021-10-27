@@ -15,7 +15,7 @@
 ## The Database
 The Sakila Database is a sample database that holds information about a company that rents movie DVDs out.
 
-![DVD-Rental ERD](https://drive.google.com/uc?export=view&id=1hPngwGaIJtgKCZJpDl4hGbzp4pK3WWOo)
+![DVD-Rental ERD](https://media.cheggcdn.com/media/609/609c81e0-4dc1-41ba-b9f2-c3e43874e55f/phpJ0olaM.png)
 
 ## Questions
 1. What were thetotal rental orders for Family Friendly Movies genres?
