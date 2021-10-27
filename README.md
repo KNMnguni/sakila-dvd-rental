@@ -1,6 +1,6 @@
 # SQL: Explore Sakila movie/dvd rentals database :movie_camera:
 
-> ## Description
+## Description
 
 > In this project I used my **SQL skills** in pgAdmin *(PostgreSQL)* to gain insigts from the **Sakila DVD rental database**. **SQL code** is used to run SQL queries and answer questions about the database (see questions below) and **build visualizations** to showcase the output of your queries.
 
@@ -8,8 +8,8 @@
 13/09/2021 
 
 ## Project Files
-* :file_folder: Database: Contains the Sakila Database (.tar) and its ERD (.pdf).
-* :file_folder: Queries and Query Results: Contains the SQL queries used to answer the questions (.sql) and their outputs (.csv).
+* :file_folder: Database: Contains the Sakila Database [.tar] and its ERD [.pdf].
+* :file_folder: Queries and Results: Contains the SQL queries used to answer the questions [.sql] and their outputs [.csv].
 * :chart_with_upwards_trend: report.pdf: Contains my findings which presented in proper visualizations.
 
 ## The Database
